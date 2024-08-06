@@ -24,7 +24,6 @@ Pandas syntax
 Using Jupyter notebook
 You'll also need to know the basics of machine learning.
 
-Please make sure you've completed these Dataquest courses (or know the material) before trying this project:
 
 Python Introduction
 For Loops and If Statements
@@ -38,7 +37,7 @@ Local Setup
 Installation
 To follow this project, please install the following locally:
 
-JupyerLab
+Jupyernotebook
 Python 3.8+
 Python packages
 pandas
@@ -55,10 +54,4 @@ If there is no airport near you, try your city or country name instead.
 Go to the cart
 Select the csv format and click continue.
 
-Select all of the checkboxes for data types.
-
-Enter your email and click continue.
-
-You'll get an email with a link to download the data.
-
-Make sure to take a look at the data documentation as well.
+a documentation as well.
